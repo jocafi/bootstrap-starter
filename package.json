@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-starter",
+  "version": "1.0.0",
+  "description": "Bootstrap Starter Template to be used with BrowserSync",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocafi/bootstrap-starter.git"
+  },
+  "author": "Jocafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jocafi/bootstrap-starter/issues"
+  },
+  "homepage": "https://github.com/jocafi/bootstrap-starter#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
